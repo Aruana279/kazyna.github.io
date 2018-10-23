@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bacp",
+				"background-position"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"borerc",
+				"border-color"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"win",
+				"windows"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"textr",
+				"text-transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"colo",
+				"flood-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"bim",
+				"background-image"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"icon-",
+				"icon-team"
+			],
+			[
+				"icon",
+				"icon-hourglass"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ic",
+				"icon-setting"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mid",
+				"money-description"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"borders",
+				"border-style"
+			],
+			[
+				"BORD",
+				"border-color"
+			],
+			[
+				"graph-",
+				"graph-description"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"h-info",
+				"h-info-content"
+			],
+			[
+				"h-ino",
+				"h-info-content"
+			],
+			[
+				"h-pho",
+				"h-phone-item"
+			],
+			[
+				"h-i",
+				"h-info-content"
+			],
+			[
+				"h-",
+				"h-info"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"border-s",
+				"border-bottom-style"
+			],
+			[
+				"for",
+				"form-input"
+			],
+			[
+				"MARG",
+				"margin-bottom"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"inpu",
+				"input-error"
+			],
+			[
+				"form-",
+				"form-input"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"m",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Аружан/Documents/citic/css/slick.css",
+		"/C/Users/Аружан/Documents/citic/css/slick.js",
+		"/C/Users/Аружан/Documents/citic/css/main.css",
+		"/C/Users/Аружан/Documents/citic/index.html",
+		"/C/Users/Аружан/Desktop/web dev/forms/index.html",
+		"/C/Users/Аружан/Documents/frontend/bootstrap/slick.js",
+		"/C/Users/Аружан/Documents/frontend/bootstrap/slick.css",
+		"/C/Users/Аружан/Documents/citic/img/stat.png",
+		"/C/Users/Аружан/Documents/citic/img/people.png",
+		"/C/Users/Аружан/Desktop/web dev/Hw1/mainHw.css",
+		"/C/Users/Аружан/Desktop/web dev/Hw1/hw1.html",
+		"/C/Users/Аружан/Desktop/web dev/forms/style.css",
+		"/C/Users/Аружан/Documents/citic/img/calendar.png",
+		"/C/Users/Аружан/Downloads/adaptive_build-master/css/style.css",
+		"/C/Users/Аружан/Downloads/adaptive_build-master/index.html",
+		"/C/Users/Аружан/Documents/citic/css/main.css.css",
+		"/C/Users/Аружан/Documents/citic/index.html.html",
+		"/C/Users/Аружан/Documents/citic/new.html",
+		"/C/Users/Аружан/Documents/citic/css/new.css",
+		"/C/Users/Аружан/Documents/citic/new.css",
+		"/C/Users/Аружан/Downloads/adaptive_build-master/adaptive_build-master/index.html",
+		"/C/Users/Аружан/Downloads/adaptive_build-master.zip",
+		"/C/Users/Аружан/Documents/globopack/gp.html",
+		"/C/Users/Аружан/Documents/globopack/gp.css",
+		"/C/Users/Аружан/Desktop/web dev/new.css",
+		"/C/Users/Аружан/Desktop/web dev/new.html",
+		"/C/Users/Аружан/Desktop/web dev/mainHw.css",
+		"/C/Users/Аружан/Desktop/web dev/hw1.html",
+		"/C/Users/Аружан/Desktop/web dev/150118.html",
+		"/C/Users/Аружан/Desktop/web dev/index.html",
+		"/C/Users/Аружан/Desktop/trial.html",
+		"/C/Users/Аружан/Desktop/web dev/style.css",
+		"/C/Users/Аружан/Desktop/web dev/my_web-page.html",
+		"/C/Users/Аружан/Desktop/web dev/shitty website.html",
+		"/C/Users/Аружан/Desktop/web dev/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
